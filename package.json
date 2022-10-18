@@ -1,0 +1,24 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "just studing api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reinaldo-Kn/nodeAPI.git"
+  },
+  "author": "Reinaldo-Kn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reinaldo-Kn/nodeAPI/issues"
+  },
+  "homepage": "https://github.com/Reinaldo-Kn/nodeAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
